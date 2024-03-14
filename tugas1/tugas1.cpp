@@ -82,7 +82,9 @@ void display() {                          //Prosedur untuk menampilkan hasil
 
 int main()
 {
-
-        return 0;
+         input();                        //Memanggil read()
+         insertionsort();              //Memanggil bubblesortarray()
+         display();                      //Memanggil display()
+         return 0;
     
 }
