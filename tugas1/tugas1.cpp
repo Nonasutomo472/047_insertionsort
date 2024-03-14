@@ -32,6 +32,13 @@ void input()
     }
 }
 
+void insertionsort() {
+
+    int temp;                                //Membuat variale data temporer atau penyimpanan sementara
+    int i, j;                                //Membuat variable j sebagai penanda
+
+   
+}
 
 
 int main()
